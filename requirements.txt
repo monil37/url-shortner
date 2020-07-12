@@ -25,9 +25,11 @@ py==1.8.1
 pylint==1.9.5
 pyparsing==2.4.7
 pytest==4.6.11
+python-dotenv==0.14.0
 scandir==1.10.0
 singledispatch==3.4.0.3
 six==1.15.0
+typing==3.7.4.2
 wcwidth==0.2.4
 Werkzeug==1.0.1
 wrapt==1.12.1
