@@ -21,7 +21,7 @@ more-itertools==5.0.0
 packaging==20.4
 pathlib2==2.3.5
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 pylint==1.9.5
 pyparsing==2.4.7
 pytest==4.6.11
